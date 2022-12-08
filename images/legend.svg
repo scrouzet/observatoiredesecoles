@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.158791mm"
+   height="63.085327mm"
+   viewBox="0 0 97.158791 63.085327"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="legend.svg"
+   inkscape:export-filename="/home/scrouzet/legend.png"
+   inkscape:export-xdpi="52.341805"
+   inkscape:export-ydpi="52.341805"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.77504209"
+     inkscape:cx="350.30356"
+     inkscape:cy="330.30464"
+     inkscape:window-width="1868"
+     inkscape:window-height="1043"
+     inkscape:window-x="1972"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="211.13992"
+       y="312.12692"
+       width="390.55338"
+       height="69.563148"
+       id="rect18398" />
+    <rect
+       x="211.13992"
+       y="312.12692"
+       width="390.55338"
+       height="69.563148"
+       id="rect18398-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.248186,-61.067215)">
+    <ellipse
+       id="path151"
+       cx="22.026173"
+       cy="114.63064"
+       rx="9.7779865"
+       ry="9.521904"
+       style="fill:#b83853;fill-opacity:1;stroke-width:0.264942" />
+    <ellipse
+       id="path151-3"
+       cx="22.026173"
+       cy="70.589119"
+       rx="9.7779865"
+       ry="9.521904"
+       style="fill:#298257;fill-opacity:1;stroke-width:0.264942" />
+    <ellipse
+       id="path151-3-6"
+       cx="22.026173"
+       cy="92.404793"
+       rx="9.7779865"
+       ry="9.521904"
+       style="fill:#fbfac7;fill-opacity:1;stroke-width:0.264942" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-16.644242,26.628806)"
+       id="text18396"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect18398)"><tspan
+         x="211.14062"
+         y="347.51758"
+         id="tspan21662">Insatisfaisant</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-16.382772,-17.412744)"
+       id="text18396-3"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect18398-6)"><tspan
+         x="211.14062"
+         y="347.51758"
+         id="tspan21664">Satisfaisant</tspan></text>
+  </g>
+</svg>
