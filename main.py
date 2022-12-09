@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
      folium.TileLayer('cartodbpositron', control=False).add_to(m)  # use folium to add alternative tiles
      folium.LayerControl(position="topleft", collapsed=False).add_to(m)  # use folium to add layer control
-     FloatImage(image_legend, bottom=64, left=1).add_to(m)
+     FloatImage(image_legend, bottom=30, left=1).add_to(m)
      m.save("carte.html")
      gdf.to_csv("./results/resultats.csv")
 
