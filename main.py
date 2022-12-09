@@ -4,12 +4,15 @@ import pandas as pd
 import geopandas
 import folium
 import matplotlib.pyplot as plt
+from folium.plugins import FloatImage
 
 # list_var = ['note_moyen', 'note_vetuste', 'note_encadrement', 'note_encadrement_particulier',
 #           'note_climat', 'note_cantine', 'note_abord_securise', 'note_relation_mairie']
 list_var = ['note_vetuste', 'note_encadrement', 'note_climat', 'note_cantine', 'note_abord_securise']
 
 list_var_display = ['Vétusté des locaux 🏫', 'Moyens humains 🧑‍🏫', 'Adaptation climat 🥵🥶🌿', 'Cantine 🥘🥕', 'Sécurité des abords 🚶‍♀️👮']
+
+image_legend = 'images/legend_width100.png'
 
 def get_form_responses(url):
      form_df = pd.read_csv(url+'export?gid=0&format=csv', index_col=0, parse_dates=['Timestamp'])
@@ -85,13 +88,13 @@ if __name__ == "__main__":
           #categorical=True,
           cmap = 'RdYlGn',
           marker_kwds=dict(radius=10, fill=True), # make marker radius 10px with fill
-          legend=True, # show legend
+          legend=False, # show legend
           tooltip=False,
           popup=True,
           k=5, # use 10 bins
           vmin=1, vmax=5,
           tiles=None,
-          legend_kwds= dict(caption='Moyenne des notes (de 1 à 5)', colorbar=True, max_labels=5),
+          #legend_kwds= dict(caption='Moyenne des notes (de 1 à 5)', colorbar=True, max_labels=5),
           name=list_var_display[0], # name of the layer in the map
           missing_kwds={'color': 'darkgrey', 'label': 'Pas de réponse'},
           overlay=False
@@ -120,6 +123,7 @@ if __name__ == "__main__":
 
      folium.TileLayer('cartodbpositron', control=False).add_to(m)  # use folium to add alternative tiles
      folium.LayerControl(position="topleft", collapsed=False).add_to(m)  # use folium to add layer control
+     FloatImage(image_legend, bottom=90, left=90).add_to(m)
      m.save("carte.html")
      gdf.to_csv("./results/resultats.csv")
 
