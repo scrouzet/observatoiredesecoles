@@ -1,22 +1,22 @@
 ,nom_ecole,geometry,note_vetuste,note_vetuste_count,note_encadrement,note_encadrement_count,note_climat,note_climat_count,note_cantine,note_cantine_count,note_abord_securise,note_abord_securise_count,ecole
 0,Ecole élémentaire Amidonniers,POINT (1.42136735903258 43.609294361879726),4.0,1.0,3.0,1.0,3.0,1.0,2.0,1.0,3.0,1.0,Ecole élémentaire Amidonniers
-1,Ecole élémentaire Becanne Maurice,POINT (1.426397386846141 43.582953380898694),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Becanne Maurice
-2,Ecole élémentaire Bert Paul,POINT (1.378266485298608 43.55966160414483),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Bert Paul
+1,Ecole élémentaire Becanne Maurice,POINT (1.426397386846141 43.582953380898694),3.5,2.0,3.0,2.0,2.0,2.0,2.5,2.0,2.0,2.0,Ecole élémentaire Becanne Maurice
+2,Ecole élémentaire Bert Paul,POINT (1.378266485298608 43.55966160414483),2.857142857142857,7.0,2.7142857142857144,7.0,2.4285714285714284,7.0,2.0,5.0,2.7142857142857144,7.0,Ecole élémentaire Bert Paul
 3,Ecole élémentaire Dortis,POINT (1.435392835355586 43.666578416253934),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Dortis
-4,Ecole élémentaire Falguière,POINT (1.430207804934197 43.6073150794179),2.4,5.0,3.2,5.0,1.4,5.0,3.0,5.0,3.2,5.0,Ecole élémentaire Falguière
+4,Ecole élémentaire Falguière,POINT (1.430207804934197 43.6073150794179),2.2857142857142856,7.0,3.0,7.0,1.2857142857142858,7.0,3.0,7.0,3.142857142857143,7.0,Ecole élémentaire Falguière
 5,Ecole élémentaire Hugo Victor,POINT (1.402456714352285 43.56628623047719),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Hugo Victor
 6,Ecole élémentaire Julien Jules,POINT (1.453776862367176 43.57402264602246),1.0,1.0,2.0,1.0,1.0,1.0,4.0,1.0,2.0,1.0,Ecole élémentaire Julien Jules
 7,Ecole élémentaire Lesseps Ferdinand De,POINT (1.38522999813037 43.5790048760853),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lesseps Ferdinand De
 8,Ecole élémentaire Macé Jean,POINT (1.478268707510161 43.5957845199208),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Macé Jean
 9,Ecole élémentaire Oustalous (Les),POINT (1.424266328453772 43.574761756152604),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Oustalous (Les)
 10,Ecole élémentaire Saliège Jules-Géraud (ex Alphand),POINT (1.433820761793812 43.655130680213034),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Saliège Jules-Géraud (ex Alphand)
-11,Ecole élémentaire Sept Deniers,POINT (1.408793759592796 43.616662650295616),1.5,2.0,2.5,2.0,1.0,2.0,1.5,2.0,1.5,2.0,Ecole élémentaire Sept Deniers
+11,Ecole élémentaire Sept Deniers,POINT (1.408793759592796 43.616662650295616),2.0,3.0,2.6666666666666665,3.0,1.0,3.0,1.6666666666666667,3.0,1.3333333333333333,3.0,Ecole élémentaire Sept Deniers
 12,Ecole élémentaire Soupetard,POINT (1.477442633131743 43.60734743702237),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Soupetard
 13,Ecole élémentaire Triolet Elsa,POINT (1.394434690438584 43.57222203342783),,0.0,3.0,1.0,1.0,1.0,4.0,1.0,3.0,1.0,Ecole élémentaire Triolet Elsa
 14,Ecole élémentaire Bonhoure,POINT (1.465877731815201 43.60238379705253),3.0,1.0,2.0,1.0,2.0,1.0,4.0,1.0,,0.0,Ecole élémentaire Bonhoure
 15,Ecole élémentaire Bonnefoy,POINT (1.454297705430024 43.616935476219666),2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Ecole élémentaire Bonnefoy
 16,Ecole élémentaire Canto Laouzetto,POINT (1.387946987548744 43.55998481879631),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Canto Laouzetto
-17,Ecole élémentaire Château d'Ancely,POINT (1.398316413013646 43.61852447781441),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Château d'Ancely
+17,Ecole élémentaire Château d'Ancely,POINT (1.398316413013646 43.61852447781441),2.2,5.0,3.4,5.0,1.6,5.0,3.0,5.0,3.0,5.0,Ecole élémentaire Château d'Ancely
 18,Ecole élémentaire Dauriac Sylvain,POINT (1.413942634281663 43.578155506605775),2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,3.0,1.0,Ecole élémentaire Dauriac Sylvain
 19,Ecole élémentaire Falcucci Clément,POINT (1.409182255213409 43.57934132016913),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Falcucci Clément
 20,Ecole élémentaire Faucher Daniel,POINT (1.405362583364031 43.5727930821193),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Faucher Daniel
@@ -24,30 +24,30 @@
 22,Ecole élémentaire Gais Pinsons (Les),POINT (1.408858113798437 43.60408574362667),4.0,1.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,Ecole élémentaire Gais Pinsons (Les)
 23,Ecole élémentaire Héritier Françoise,POINT (1.406215237660018 43.57277311386362),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Héritier Françoise
 24,Ecole élémentaire Hyon Georges,POINT (1.41035321992764 43.57932732267949),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Hyon Georges
-25,Ecole élémentaire Jacquier Maurice,POINT (1.418074786091485 43.5756303762879),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Jacquier Maurice
-26,Ecole élémentaire Lalande,POINT (1.432897233505673 43.64822364842159),1.0,1.0,3.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Ecole élémentaire Lalande
+25,Ecole élémentaire Jacquier Maurice,POINT (1.418074786091485 43.5756303762879),3.4285714285714284,7.0,2.0,7.0,1.2857142857142858,7.0,1.5,6.0,2.857142857142857,7.0,Ecole élémentaire Jacquier Maurice
+26,Ecole élémentaire Lalande,POINT (1.432897233505673 43.64822364842159),1.8,5.0,3.6,5.0,1.0,5.0,3.4,5.0,1.6,5.0,Ecole élémentaire Lalande
 27,Ecole élémentaire Lapujade,POINT (1.460642504473118 43.628629659107816),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lapujade
-28,Ecole élémentaire Littre,POINT (1.377568118017214 43.608146049560325),3.3333333333333335,9.0,2.0,8.0,1.8888888888888888,9.0,1.5,8.0,2.4444444444444446,9.0,Ecole élémentaire Littre
+28,Ecole élémentaire Littre,POINT (1.377568118017214 43.608146049560325),3.272727272727273,11.0,2.1,10.0,1.9090909090909092,11.0,1.4,10.0,2.6363636363636362,11.0,Ecole élémentaire Littre
 29,Ecole élémentaire Michoun,POINT (1.468211297704148 43.62672896881752),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Michoun
 30,Ecole élémentaire Molière,POINT (1.430862434518407 43.59343121283073),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Molière
-31,Ecole élémentaire Monge,POINT (1.457741576686656 43.60883740620696),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Monge
-32,Ecole élémentaire Nougaro,POINT (1.434282551824928 43.62055286741985),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Nougaro
+31,Ecole élémentaire Monge,POINT (1.457741576686656 43.60883740620696),2.0,2.0,2.5,2.0,1.5,2.0,2.0,2.0,3.0,2.0,Ecole élémentaire Monge
+32,Ecole élémentaire Nougaro,POINT (1.434282551824928 43.62055286741985),2.0,2.0,2.0,2.0,1.0,2.0,1.5,2.0,1.0,2.0,Ecole élémentaire Nougaro
 33,Ecole élémentaire Pagnol Marcel,POINT (1.40124665939134 43.59710505698739),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Pagnol Marcel
 34,Ecole élémentaire Papus,POINT (1.413244980496751 43.57571025700151),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Papus
 35,Ecole élémentaire Ponts Jumeaux,POINT (1.422375623052344 43.61516556042898),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Ponts Jumeaux
 36,Ecole élémentaire Terrasse (La),POINT (1.485436587088147 43.58389947301406),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Terrasse (La)
 37,Ecole élémentaire Calvinhac,POINT (1.45498952436648 43.59802203387074),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Calvinhac
-38,Ecole élémentaire Chaubet Jean,POINT (1.467419856955276 43.600599380496234),3.0,1.0,3.0,1.0,4.0,1.0,3.0,1.0,5.0,1.0,Ecole élémentaire Chaubet Jean
-39,Ecole élémentaire Courrège,POINT (1.47601297884932 43.58208034130397),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Courrège
+38,Ecole élémentaire Chaubet Jean,POINT (1.467419856955276 43.600599380496234),2.6666666666666665,3.0,2.3333333333333335,3.0,2.0,3.0,2.3333333333333335,3.0,2.6666666666666665,3.0,Ecole élémentaire Chaubet Jean
+39,Ecole élémentaire Courrège,POINT (1.47601297884932 43.58208034130397),2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,Ecole élémentaire Courrège
 40,Ecole élémentaire Curie Marie & Pierre,POINT (1.443369104769917 43.62064517145519),2.0,1.0,2.0,1.0,1.0,1.0,4.0,1.0,2.0,1.0,Ecole élémentaire Curie Marie & Pierre
-41,Ecole élémentaire Dupont Pierre,POINT (1.445830280690475 43.58926924085349),3.0,1.0,3.0,1.0,1.0,1.0,3.0,1.0,3.0,1.0,Ecole élémentaire Dupont Pierre
-42,Ecole élémentaire Ferry Jules,POINT (1.433361671403053 43.632964778135175),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Ferry Jules
+41,Ecole élémentaire Dupont Pierre,POINT (1.445830280690475 43.58926924085349),2.6666666666666665,3.0,3.0,3.0,1.3333333333333333,3.0,3.0,3.0,2.6666666666666665,3.0,Ecole élémentaire Dupont Pierre
+42,Ecole élémentaire Ferry Jules,POINT (1.433361671403053 43.632964778135175),2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Ecole élémentaire Ferry Jules
 43,Ecole élémentaire Fleurance,POINT (1.370685338931232 43.59887358228114),2.0,2.0,1.0,2.0,1.5,2.0,1.0,2.0,1.5,2.0,Ecole élémentaire Fleurance
-44,Ecole élémentaire France Anatole,POINT (1.461798172832453 43.58482253476975),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire France Anatole
+44,Ecole élémentaire France Anatole,POINT (1.461798172832453 43.58482253476975),2.5,2.0,2.5,2.0,2.5,2.0,4.0,2.0,1.5,2.0,Ecole élémentaire France Anatole
 45,Ecole élémentaire Guillaumet Henri,POINT (1.488649762690443 43.5772548770016),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Guillaumet Henri
-46,Ecole élémentaire Lardenne,POINT (1.378130588746774 43.588740814310206),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lardenne
+46,Ecole élémentaire Lardenne,POINT (1.378130588746774 43.588740814310206),1.0,1.0,4.0,1.0,1.0,1.0,3.0,1.0,4.0,1.0,Ecole élémentaire Lardenne
 47,Ecole élémentaire Leygue Armand,POINT (1.463477368153292 43.59684559705719),3.1666666666666665,6.0,2.5,6.0,1.5,6.0,3.3333333333333335,6.0,2.3333333333333335,6.0,Ecole élémentaire Leygue Armand
-48,Ecole élémentaire Musset Alfred De,POINT (1.430147897540749 43.62319925586947),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Musset Alfred De
+48,Ecole élémentaire Musset Alfred De,POINT (1.430147897540749 43.62319925586947),2.5,2.0,3.5,2.0,2.0,2.0,3.0,2.0,3.0,2.0,Ecole élémentaire Musset Alfred De
 49,Ecole élémentaire Pastel (Le),POINT (1.453541498573324 43.54532290334199),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Pastel (Le)
 50,Ecole élémentaire Renan Ernest,POINT (1.441531364928577 43.636649639707336),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Renan Ernest
 51,Ecole élémentaire Ricardie,POINT (1.449413159467609 43.58093217465964),2.0,1.0,4.0,1.0,1.0,1.0,3.0,1.0,2.0,1.0,Ecole élémentaire Ricardie
@@ -56,89 +56,89 @@
 54,Ecole élémentaire Viollet-le-Duc,POINT (1.391952570126055 43.58135092910562),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Viollet-le-Duc
 55,Ecole élémentaire Zay Jean,POINT (1.447114282933722 43.6435886158176),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Zay Jean
 56,Ecole élémentaire Benezet,POINT (1.427371572953566 43.58950038909314),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Benezet
-57,Ecole élémentaire Billières Etienne,POINT (1.420903146094662 43.5881463506393),1.3333333333333333,3.0,1.6666666666666667,3.0,1.3333333333333333,3.0,3.0,3.0,4.0,3.0,Ecole élémentaire Billières Etienne
+57,Ecole élémentaire Billières Etienne,POINT (1.420903146094662 43.5881463506393),2.142857142857143,7.0,2.2857142857142856,7.0,1.4285714285714286,7.0,3.0,7.0,3.857142857142857,7.0,Ecole élémentaire Billières Etienne
 58,Ecole élémentaire Château de l'Hers,POINT (1.485383645981417 43.600667239802526),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Château de l'Hers
 59,Ecole élémentaire De Gouges Olympe,POINT (1.439761499442563 43.65416498570646),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire De Gouges Olympe
 60,Ecole élémentaire Dottin Paul,POINT (1.399135226687609 43.5605838901044),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Dottin Paul
 61,Ecole élémentaire Guilhermy,POINT (1.372182901498191 43.56726854652503),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Guilhermy
 62,Ecole élémentaire Jaurès Jean,POINT (1.451389037926785 43.58906920122396),2.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,4.0,1.0,Ecole élémentaire Jaurès Jean
-63,Ecole élémentaire Jolimont,POINT (1.467802769909187 43.61384525336196),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Jolimont
-64,Ecole élémentaire Juncasse (La),POINT (1.471681445312581 43.61747026278543),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Juncasse (La)
+63,Ecole élémentaire Jolimont,POINT (1.467802769909187 43.61384525336196),1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,4.0,1.0,Ecole élémentaire Jolimont
+64,Ecole élémentaire Juncasse (La),POINT (1.471681445312581 43.61747026278543),1.8888888888888888,9.0,2.2222222222222223,9.0,1.3333333333333333,9.0,2.111111111111111,9.0,1.6666666666666667,9.0,Ecole élémentaire Juncasse (La)
 65,Ecole élémentaire Lespinasse,POINT (1.434868155508791 43.59767677435284),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lespinasse
 66,Ecole élémentaire Mailhos Georges,POINT (1.497350638134852 43.56688179688049),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Mailhos Georges
 67,Ecole élémentaire Maourine (La),POINT (1.449192003737622 43.62999998539322),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Maourine (La)
-68,Ecole élémentaire Niboul,POINT (1.450201873819664 43.64001046118509),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Niboul
+68,Ecole élémentaire Niboul,POINT (1.450201873819664 43.64001046118509),4.0,1.0,2.0,1.0,2.0,1.0,,0.0,4.0,1.0,Ecole élémentaire Niboul
 69,Ecole élémentaire Nord,POINT (1.441569178717667 43.61083050154388),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Nord
-70,Ecole élémentaire Patte d'Oie,POINT (1.424429908728688 43.59547619192455),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Patte d'Oie
+70,Ecole élémentaire Patte d'Oie,POINT (1.424429908728688 43.59547619192455),4.0,1.0,4.0,1.0,4.0,1.0,3.0,1.0,5.0,1.0,Ecole élémentaire Patte d'Oie
 71,Ecole élémentaire Ronsard,POINT (1.407549606791631 43.58432358678114),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Ronsard
-72,Ecole élémentaire Sauzelong,POINT (1.461833186485291 43.58099905905155),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Sauzelong
+72,Ecole élémentaire Sauzelong,POINT (1.461833186485291 43.58099905905155),1.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Ecole élémentaire Sauzelong
 73,Ecole élémentaire Sermet,POINT (1.442107933145435 43.60718317420983),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Sermet
 74,Ecole élémentaire Tibaous (Les),POINT (1.385035188271436 43.550311246802266),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Tibaous (Les)
 75,Ecole élémentaire Vergers (Les),POINT (1.398487333943913 43.581286932992626),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Vergers (Les)
 76,Ecole élémentaire Aubrac Lucie,POINT (1.433864914863379 43.62971375902334),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Aubrac Lucie
 77,Ecole élémentaire Bastide Georges,POINT (1.3982910586497 43.560144924999804),2.5,2.0,2.0,2.0,1.0,2.0,3.0,2.0,2.5,2.0,Ecole élémentaire Bastide Georges
-78,Ecole élémentaire Bayard / Matabiau,POINT (1.447874234891523 43.611455868992536),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Bayard / Matabiau
-79,Ecole élémentaire Borderouge,POINT (1.4546720113497 43.64137874214885),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Borderouge
+78,Ecole élémentaire Bayard / Matabiau,POINT (1.447874234891523 43.611455868992536),2.0,1.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,Ecole élémentaire Bayard / Matabiau
+79,Ecole élémentaire Borderouge,POINT (1.4546720113497 43.64137874214885),4.0,2.0,2.5,2.0,1.0,1.0,3.5,2.0,3.0,2.0,Ecole élémentaire Borderouge
 80,Ecole élémentaire Bourliaguet Léonce,POINT (1.395521463840501 43.57745797477695),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Bourliaguet Léonce
 81,Ecole élémentaire Buffon,POINT (1.411880036677417 43.564715898901234),2.0,2.0,2.5,2.0,1.0,2.0,3.5,2.0,2.0,2.0,Ecole élémentaire Buffon
-82,Ecole élémentaire Cuvier,POINT (1.463909750331867 43.63663831098323),2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,Ecole élémentaire Cuvier
-83,Ecole élémentaire Daste André,POINT (1.438245588532522 43.58086103969841),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Daste André
-84,Ecole élémentaire Daurat Didier,POINT (1.402424706396401 43.573573525468724),2.6666666666666665,3.0,2.0,3.0,1.6666666666666667,3.0,3.0,3.0,1.6666666666666667,3.0,Ecole élémentaire Daurat Didier
+82,Ecole élémentaire Cuvier,POINT (1.463909750331867 43.63663831098323),3.0,2.0,3.0,2.0,2.5,2.0,3.0,2.0,2.0,2.0,Ecole élémentaire Cuvier
+83,Ecole élémentaire Daste André,POINT (1.438245588532522 43.58086103969841),1.3333333333333333,3.0,2.3333333333333335,3.0,1.0,3.0,2.0,3.0,2.0,3.0,Ecole élémentaire Daste André
+84,Ecole élémentaire Daurat Didier,POINT (1.402424706396401 43.573573525468724),3.0,4.0,2.5,4.0,1.75,4.0,3.5,4.0,2.5,4.0,Ecole élémentaire Daurat Didier
 85,Ecole élémentaire De Gaulle-Anthonioz,POINT (1.405592163711675 43.60097905948305),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire De Gaulle-Anthonioz
 86,Ecole élémentaire Dupouy Gaston,POINT (1.380818574675497 43.58097452187184),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Dupouy Gaston
-87,Ecole élémentaire Fabre,POINT (1.443661332446935 43.596082720571275),2.0,1.0,3.0,1.0,1.0,1.0,4.0,1.0,1.0,1.0,Ecole élémentaire Fabre
+87,Ecole élémentaire Fabre,POINT (1.443661332446935 43.596082720571275),2.8333333333333335,18.0,3.0,18.0,1.6111111111111112,18.0,2.588235294117647,17.0,2.5,18.0,Ecole élémentaire Fabre
 88,Ecole élémentaire Fénelon,POINT (1.453270152340353 43.64955839313029),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Fénelon
 89,Ecole élémentaire Fourtanier Alexandre,POINT (1.450691517699377 43.603086387019566),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Fourtanier Alexandre
 90,Ecole élémentaire Godolin Peire,POINT (1.416505699154057 43.598178948144074),1.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,Ecole élémentaire Godolin Peire
 91,Ecole élémentaire Grand Selve,POINT (1.45028866824409 43.649329309557544),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Grand Selve
 92,Ecole élémentaire Lagrange Léo,POINT (1.43696790184279 43.577278795810365),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lagrange Léo
 93,Ecole élémentaire Lakanal,POINT (1.438941952046282 43.60207218165571),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Lakanal
-94,Ecole élémentaire Marengo-Périole,POINT (1.459675448284077 43.61755480952058),1.6666666666666667,6.0,2.6666666666666665,6.0,1.3333333333333333,6.0,2.1666666666666665,6.0,1.6666666666666667,6.0,Ecole élémentaire Marengo-Périole
-95,Ecole élémentaire Michelet,POINT (1.455926774126704 43.60320653608996),2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0,1.0,Ecole élémentaire Michelet
+94,Ecole élémentaire Marengo-Périole,POINT (1.459675448284077 43.61755480952058),1.7142857142857142,7.0,2.5714285714285716,7.0,1.2857142857142858,7.0,2.2857142857142856,7.0,1.5714285714285714,7.0,Ecole élémentaire Marengo-Périole
+95,Ecole élémentaire Michelet,POINT (1.455926774126704 43.60320653608996),2.0,2.0,1.5,2.0,1.0,2.0,2.0,2.0,2.5,2.0,Ecole élémentaire Michelet
 96,Ecole élémentaire Montaudran,POINT (1.484608156461926 43.57398647681282),1.5,2.0,3.0,2.0,1.0,1.0,3.0,1.0,3.0,2.0,Ecole élémentaire Montaudran
-97,Ecole élémentaire Rangueil,POINT (1.46414732194384 43.57488314220735),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole élémentaire Rangueil
+97,Ecole élémentaire Rangueil,POINT (1.46414732194384 43.57488314220735),1.5,2.0,2.5,2.0,1.0,2.0,1.5,2.0,4.5,2.0,Ecole élémentaire Rangueil
 98,Ecole élémentaire Veil Simone,POINT (1.402669854061623 43.568305163770056),5.0,1.0,3.0,1.0,4.0,1.0,2.0,1.0,1.0,1.0,Ecole élémentaire Veil Simone
-99,Ecole maternelle Aubrac Lucie,POINT (1.437289911688711 43.62875867889025),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Aubrac Lucie
-100,Ecole maternelle Bert Paul,POINT (1.378266485298608 43.55966160414483),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Bert Paul
+99,Ecole maternelle Aubrac Lucie,POINT (1.437289911688711 43.62875867889025),2.5,2.0,3.5,2.0,1.0,2.0,4.0,1.0,2.0,2.0,Ecole maternelle Aubrac Lucie
+100,Ecole maternelle Bert Paul,POINT (1.378266485298608 43.55966160414483),1.5,2.0,2.0,2.0,2.0,2.0,4.0,2.0,2.5,2.0,Ecole maternelle Bert Paul
 101,Ecole maternelle Billières Etienne,POINT (1.419235554335228 43.589167520753755),2.5,2.0,2.0,2.0,1.5,2.0,3.0,2.0,2.5,2.0,Ecole maternelle Billières Etienne
-102,Ecole maternelle Château de l'Hers,POINT (1.485383645981417 43.600667239802526),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Château de l'Hers
+102,Ecole maternelle Château de l'Hers,POINT (1.485383645981417 43.600667239802526),3.0,1.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,1.0,Ecole maternelle Château de l'Hers
 103,Ecole maternelle Daurat Didier,POINT (1.402548869137942 43.57356997581853),3.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Ecole maternelle Daurat Didier
 104,Ecole maternelle Dauriac Sylvain,POINT (1.41357705802244 43.57825662714629),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Dauriac Sylvain
-105,Ecole maternelle De Gaulle-Anthonioz,POINT (1.406358842538035 43.60095060698514),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle De Gaulle-Anthonioz
+105,Ecole maternelle De Gaulle-Anthonioz,POINT (1.406358842538035 43.60095060698514),5.0,1.0,3.0,1.0,2.0,1.0,3.0,1.0,2.0,1.0,Ecole maternelle De Gaulle-Anthonioz
 106,Ecole maternelle De Gouges Olympe,POINT (1.439761499442563 43.65416498570646),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle De Gouges Olympe
 107,Ecole maternelle Faucher Daniel,POINT (1.405170392933944 43.572770173557274),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Faucher Daniel
-108,Ecole maternelle Fleurance,POINT (1.369788295988318 43.60122328300854),2.5,2.0,3.0,2.0,1.5,2.0,2.5,2.0,1.0,2.0,Ecole maternelle Fleurance
-109,Ecole maternelle Fourtanier Alexandre,POINT (1.450708398439252 43.6030948504164),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Fourtanier Alexandre
+108,Ecole maternelle Fleurance,POINT (1.369788295988318 43.60122328300854),3.0,4.0,3.25,4.0,1.75,4.0,2.75,4.0,2.25,4.0,Ecole maternelle Fleurance
+109,Ecole maternelle Fourtanier Alexandre,POINT (1.450708398439252 43.6030948504164),3.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,3.0,1.0,Ecole maternelle Fourtanier Alexandre
 110,Ecole maternelle Guillaumet Henri,POINT (1.488649762690443 43.5772548770016),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Guillaumet Henri
-111,Ecole maternelle Jacquier Maurice,POINT (1.418074786091485 43.5756303762879),2.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Ecole maternelle Jacquier Maurice
+111,Ecole maternelle Jacquier Maurice,POINT (1.418074786091485 43.5756303762879),3.0,4.0,3.0,4.0,2.0,4.0,2.75,4.0,3.25,4.0,Ecole maternelle Jacquier Maurice
 112,Ecole maternelle Lakanal,POINT (1.44160428686729 43.60178388632296),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Lakanal
 113,Ecole maternelle Lesseps Ferdinand De,POINT (1.383938985716098 43.57881006137101),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Lesseps Ferdinand De
 114,Ecole maternelle Matabiau,POINT (1.447789456388862 43.6113402212568),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Matabiau
 115,Ecole maternelle Michel Louise,POINT (1.414939196260395 43.58201153247744),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Michel Louise
 116,Ecole maternelle Michoun B,POINT (1.467542881033459 43.62979117639697),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Michoun B
-117,Ecole maternelle Pinhous (Les),POINT (1.398305427614694 43.560404263526195),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Pinhous (Les)
+117,Ecole maternelle Pinhous (Les),POINT (1.398305427614694 43.560404263526195),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Ecole maternelle Pinhous (Les)
 118,Ecole maternelle Saliège Jules-Géraud (ex Alphand),POINT (1.433820761793812 43.655130680213034),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Saliège Jules-Géraud (ex Alphand)
 119,Ecole maternelle Sept Deniers,POINT (1.409096269760477 43.6163804025799),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Sept Deniers
-120,Ecole maternelle Tabar,POINT (1.413696181163892 43.57038152083421),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Tabar
+120,Ecole maternelle Tabar,POINT (1.413696181163892 43.57038152083421),3.0,2.0,3.5,2.0,1.0,2.0,4.0,2.0,3.0,2.0,Ecole maternelle Tabar
 121,Ecole maternelle Tibaous (Les),POINT (1.38451317132242 43.55006992222422),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Tibaous (Les)
-122,Ecole maternelle Triolet Elsa,POINT (1.394434690438584 43.57222203342783),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Triolet Elsa
+122,Ecole maternelle Triolet Elsa,POINT (1.394434690438584 43.57222203342783),3.0,1.0,3.0,1.0,3.0,1.0,4.0,1.0,3.0,1.0,Ecole maternelle Triolet Elsa
 123,Ecole maternelle Veil Simone,POINT (1.402636721279038 43.56833643961815),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Veil Simone
 124,Ecole maternelle Vernant,POINT (1.457560343867078 43.549500157738464),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Vernant
-125,Ecole maternelle Viollet-le-Duc,POINT (1.391952570126055 43.58135092910562),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Viollet-le-Duc
+125,Ecole maternelle Viollet-le-Duc,POINT (1.391952570126055 43.58135092910562),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,Ecole maternelle Viollet-le-Duc
 126,Ecole maternelle Bastide Georges 1,POINT (1.398507873652499 43.560671881434935),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Bastide Georges 1
 127,Ecole maternelle Béarnais (Le),POINT (1.426256268833871 43.61345367291908),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Béarnais (Le)
 128,Ecole maternelle Benezet,POINT (1.427371572953566 43.58950038909314),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Benezet
-129,Ecole maternelle Calas,POINT (1.444252657039228 43.58712511251688),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Calas
+129,Ecole maternelle Calas,POINT (1.444252657039228 43.58712511251688),2.0,2.0,3.0,2.0,1.0,2.0,1.5,2.0,3.5,2.0,Ecole maternelle Calas
 130,Ecole maternelle Courrège,POINT (1.47601297884932 43.58208034130397),3.0,1.0,3.0,1.0,1.0,1.0,4.0,1.0,4.0,1.0,Ecole maternelle Courrège
-131,Ecole maternelle Curie Marie & Pierre,POINT (1.444423985676003 43.6206800284588),2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,Ecole maternelle Curie Marie & Pierre
+131,Ecole maternelle Curie Marie & Pierre,POINT (1.444423985676003 43.6206800284588),2.5,2.0,2.0,2.0,1.0,2.0,3.0,2.0,3.0,2.0,Ecole maternelle Curie Marie & Pierre
 132,Ecole maternelle Daste André,POINT (1.439163318750185 43.58100226493435),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Daste André
-133,Ecole maternelle Dupouy Gaston,POINT (1.380687367213229 43.58099091333876),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Dupouy Gaston
-134,Ecole maternelle Fabre,POINT (1.443009123786491 43.5970463278645),3.0,2.0,3.5,2.0,1.5,2.0,4.0,2.0,1.0,2.0,Ecole maternelle Fabre
+133,Ecole maternelle Dupouy Gaston,POINT (1.380687367213229 43.58099091333876),4.0,1.0,1.0,1.0,3.0,1.0,4.0,1.0,3.0,1.0,Ecole maternelle Dupouy Gaston
+134,Ecole maternelle Fabre,POINT (1.443009123786491 43.5970463278645),2.6666666666666665,3.0,3.3333333333333335,3.0,1.3333333333333333,3.0,4.0,3.0,1.0,3.0,Ecole maternelle Fabre
 135,Ecole maternelle Fontaine-Casselardit,POINT (1.409555641984736 43.604458995709),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Fontaine-Casselardit
 136,Ecole maternelle Grand Selve,POINT (1.449949648098788 43.64910290846893),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Grand Selve
 137,Ecole maternelle Guilhermy,POINT (1.372137799656685 43.56728843693798),5.0,1.0,4.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,Ecole maternelle Guilhermy
 138,Ecole maternelle Hyon Georges,POINT (1.409804325797318 43.579177575337596),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Hyon Georges
-139,Ecole maternelle Jolimont,POINT (1.468591430726674 43.61390850098311),1.0,2.0,2.0,2.0,2.0,2.0,3.0,2.0,1.0,2.0,Ecole maternelle Jolimont
+139,Ecole maternelle Jolimont,POINT (1.468591430726674 43.61390850098311),1.75,4.0,2.25,4.0,1.5,4.0,3.0,4.0,1.75,4.0,Ecole maternelle Jolimont
 140,Ecole maternelle Lagrange Léo,POINT (1.438394249532294 43.577197885258634),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Lagrange Léo
 141,Ecole maternelle Lamartine,POINT (1.43425386352725 43.59619966908823),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Lamartine
 142,Ecole maternelle Mailhos Georges,POINT (1.497363431287078 43.567192139707956),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Mailhos Georges
@@ -151,15 +151,15 @@
 149,Ecole maternelle Amidonniers,POINT (1.420515264335671 43.609503101084684),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Amidonniers
 150,Ecole maternelle Becanne Maurice,POINT (1.426374458240528 43.581868047890815),2.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Ecole maternelle Becanne Maurice
 151,Ecole maternelle Bonnefoy,POINT (1.453790455117969 43.616489156924935),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Bonnefoy
-152,Ecole maternelle Château d'Ancely,POINT (1.39859879744277 43.618090602882724),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Château d'Ancely
+152,Ecole maternelle Château d'Ancely,POINT (1.39859879744277 43.618090602882724),3.0,3.0,2.3333333333333335,3.0,1.3333333333333333,3.0,3.3333333333333335,3.0,3.3333333333333335,3.0,Ecole maternelle Château d'Ancely
 153,Ecole maternelle Gloire (La),POINT (1.468140489317421 43.60767623502055),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Gloire (La)
 154,Ecole maternelle Julien Jules,POINT (1.45400536036705 43.57449036396473),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Julien Jules
-155,Ecole maternelle Juncasse (La),POINT (1.471922004881777 43.617275212800685),1.25,4.0,2.25,4.0,1.0,4.0,2.0,4.0,1.75,4.0,Ecole maternelle Juncasse (La)
+155,Ecole maternelle Juncasse (La),POINT (1.471922004881777 43.617275212800685),1.3333333333333333,9.0,2.7777777777777777,9.0,1.3333333333333333,9.0,2.2222222222222223,9.0,1.7777777777777777,9.0,Ecole maternelle Juncasse (La)
 156,Ecole maternelle Leygue Armand,POINT (1.464392275438318 43.5965493363383),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Leygue Armand
 157,Ecole maternelle Littre,POINT (1.378124783166325 43.60791241469699),3.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,Ecole maternelle Littre
-158,Ecole maternelle Macé Jean,POINT (1.478453144319812 43.59495945581134),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Macé Jean
+158,Ecole maternelle Macé Jean,POINT (1.478453144319812 43.59495945581134),3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Ecole maternelle Macé Jean
 159,Ecole maternelle Merly,POINT (1.442677486799382 43.6094494451081),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Merly
-160,Ecole maternelle Michelet,POINT (1.455036820643735 43.60403834295482),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Michelet
+160,Ecole maternelle Michelet,POINT (1.455036820643735 43.60403834295482),2.5,2.0,2.5,2.0,1.5,2.0,2.5,2.0,2.5,2.0,Ecole maternelle Michelet
 161,Ecole maternelle Molière,POINT (1.431575229670508 43.59329734490534),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Molière
 162,Ecole maternelle Papus,POINT (1.413729503410159 43.57556283243868),2.0,1.0,4.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,Ecole maternelle Papus
 163,Ecole maternelle Pastel (Le),POINT (1.453541498573324 43.54532290334199),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Pastel (Le)
@@ -167,20 +167,20 @@
 165,Ecole maternelle Petit Gragnague,POINT (1.415531705034221 43.61231008493682),2.0,1.0,3.0,1.0,2.0,1.0,4.0,1.0,4.0,1.0,Ecole maternelle Petit Gragnague
 166,Ecole maternelle Ronsard,POINT (1.407222986850783 43.584154339678705),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Ronsard
 167,Ecole maternelle Sauzelong,POINT (1.462216059842433 43.579131477937615),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Sauzelong
-168,Ecole maternelle Soupetard,POINT (1.477442633131743 43.60734743702237),1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Ecole maternelle Soupetard
+168,Ecole maternelle Soupetard,POINT (1.477442633131743 43.60734743702237),2.0,2.0,3.0,2.0,2.0,2.0,3.5,2.0,2.5,2.0,Ecole maternelle Soupetard
 169,Ecole maternelle Bourliaguet Léonce,POINT (1.395521463840501 43.57745797477695),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Bourliaguet Léonce
-170,Ecole maternelle Canto Laouzetto,POINT (1.387938656208676 43.559990914317055),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Canto Laouzetto
+170,Ecole maternelle Canto Laouzetto,POINT (1.387938656208676 43.559990914317055),3.0,1.0,3.0,1.0,2.0,1.0,3.0,1.0,3.0,1.0,Ecole maternelle Canto Laouzetto
 171,Ecole maternelle Dortis,POINT (1.435767344329389 43.66655431250041),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Dortis
 172,Ecole maternelle Fénelon,POINT (1.453231491522516 43.649601626805776),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Fénelon
-173,Ecole maternelle France Anatole,POINT (1.463038884384642 43.58596699570512),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle France Anatole
+173,Ecole maternelle France Anatole,POINT (1.463038884384642 43.58596699570512),2.0,1.0,2.0,1.0,1.0,1.0,4.0,1.0,2.0,1.0,Ecole maternelle France Anatole
 174,Ecole maternelle Hugo Victor,POINT (1.403192957565663 43.56527430490295),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Hugo Victor
-175,Ecole maternelle Lapujade,POINT (1.460725543534509 43.628712999877244),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Lapujade
+175,Ecole maternelle Lapujade,POINT (1.460725543534509 43.628712999877244),3.0,1.0,3.0,1.0,2.0,1.0,3.0,1.0,3.0,1.0,Ecole maternelle Lapujade
 176,Ecole maternelle Monnet Jean,POINT (1.431687897391311 43.64667030829199),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Monnet Jean
 177,Ecole maternelle Musset Alfred De,POINT (1.430147897540749 43.62319925586947),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Musset Alfred De
 178,Ecole maternelle Negreneys,POINT (1.438482551197953 43.62126593274003),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Negreneys
-179,Ecole maternelle Niboul,POINT (1.450201873819664 43.64001046118509),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Niboul
+179,Ecole maternelle Niboul,POINT (1.450201873819664 43.64001046118509),3.0,3.0,2.0,3.0,1.0,3.0,2.0,3.0,1.6666666666666667,3.0,Ecole maternelle Niboul
 180,Ecole maternelle Patte d'Oie,POINT (1.426568183166643 43.59413146331182),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Patte d'Oie
-181,Ecole maternelle Polygone,POINT (1.416850200237768 43.59754791621765),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Polygone
+181,Ecole maternelle Polygone,POINT (1.416850200237768 43.59754791621765),1.0,1.0,5.0,1.0,1.0,1.0,4.0,1.0,1.0,1.0,Ecole maternelle Polygone
 182,Ecole maternelle Renan Ernest,POINT (1.443218349176922 43.63668221695157),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Renan Ernest
 183,Ecole maternelle Terrasse (La),POINT (1.485618281866707 43.58350917254808),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Terrasse (La)
 184,Ecole maternelle Tillion Germaine,POINT (1.391410880179195 43.58425696608947),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Tillion Germaine
@@ -200,11 +200,11 @@
 198,Ecole maternelle Pagnol Marcel,POINT (1.401348559602064 43.59609450003869),2.5,2.0,3.0,2.0,1.0,2.0,2.5,2.0,4.0,2.0,Ecole maternelle Pagnol Marcel
 199,Ecole maternelle Reille,POINT (1.459278628323921 43.6100233848047),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Reille
 200,Ecole maternelle Sarrat,POINT (1.45489286203595 43.59950666877139),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Sarrat
-201,Ecole maternelle Zay Jean,POINT (1.447508568593012 43.641203549988205),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Zay Jean
+201,Ecole maternelle Zay Jean,POINT (1.447508568593012 43.641203549988205),3.0,1.0,4.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Ecole maternelle Zay Jean
 202,Ecole maternelle Borderouge Nord,POINT (1.45493620215744 43.64116689374813),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Borderouge Nord
-203,Ecole maternelle Buffon,POINT (1.412436096351319 43.564513693089744),1.5,4.0,2.0,4.0,1.0,4.0,3.5,4.0,1.0,4.0,Ecole maternelle Buffon
+203,Ecole maternelle Buffon,POINT (1.412436096351319 43.564513693089744),1.8,5.0,2.4,5.0,1.0,5.0,3.6,5.0,1.0,5.0,Ecole maternelle Buffon
 204,Ecole maternelle Chaubet Jean,POINT (1.467788535542773 43.59981363994655),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Chaubet Jean
 205,Ecole maternelle Claudel Camille,POINT (1.398156312064649 43.56514178028912),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Claudel Camille
-206,Ecole maternelle Cuvier,POINT (1.463096439377579 43.63698115775935),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Cuvier
+206,Ecole maternelle Cuvier,POINT (1.463096439377579 43.63698115775935),1.3333333333333333,3.0,3.0,3.0,1.6666666666666667,3.0,2.6666666666666665,3.0,2.6666666666666665,3.0,Ecole maternelle Cuvier
 207,Ecole maternelle Dieuzaide Jean,POINT (1.419470782847779 43.64492871933588),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Dieuzaide Jean
 208,Ecole maternelle Dolto Françoise,POINT (1.479334554589729 43.58641133229934),,0.0,,0.0,,0.0,,0.0,,0.0,Ecole maternelle Dolto Françoise
